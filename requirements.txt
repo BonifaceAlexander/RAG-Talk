@@ -1,0 +1,9 @@
+
+streamlit>=1.24.0
+streamlit-mic-recorder>=0.0.8
+openai>=1.0.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+numpy>=1.23.0
+soundfile>=0.12.1
+pydub>=0.25.1
